@@ -1,0 +1,46 @@
+      .pagina
+      {
+        background-color: darkgray;
+      }
+    .whats{
+    cursor: pointer;
+    width: 66px;
+    height: 66px;
+    position: fixed;
+    z-index: 100;
+    bottom: 100px;
+    right: 16px;
+  }
+  .maps{
+    cursor: pointer;
+    width: 66px;
+    height: 66px;
+    position: fixed;
+    z-index: 100;
+    bottom: 200px;
+    right: 16px;
+  }
+
+  .suporte{
+    cursor: pointer;
+    width: 66px;
+    height: 66px;
+    position: fixed;
+    z-index: 100;
+    bottom: 300px;
+    right: 16px;
+  }
+
+
+.Sincroniza{
+  text-align: center;
+  
+  color: white
+}#Sincronizap{
+  background-color: black;
+}
+.div2{
+  background-color: blueviolet;
+  
+  text-align: center;
+}
